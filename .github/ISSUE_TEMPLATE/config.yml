@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "GitHub Discussions"
+    url: "https://github.com/orgs/HyperCubeSphere/discussions"
+    about: "Questions, ideas, and general conversation."
+  - name: "Report a security vulnerability"
+    url: "https://github.com/HyperCubeSphere/.github/blob/main/SECURITY.md"
+    about: "Please review our security policy before opening any public issue."
